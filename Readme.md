@@ -1,10 +1,8 @@
-```markdown
 # 🧠 CVMate – Interactive CV Viewer with Chatbot
 
 CVMate is a modern, interactive Python desktop application that presents your CV in a sleek GUI. It allows users to browse CV sections like skills, education, and projects — or ask natural language questions via a built-in chatbot.
 
 Built using `Tkinter` and `SQLite`, it is structured for extensibility, style, and ease of use.
-```
 
 ---
 
